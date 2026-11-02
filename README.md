@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there! 👋
+I'm a Computer Science graduate and aspiring Software Developer, passionate about learning new technologies and building useful applications.
+ Tech & Learning
+Java
+JavaScript
+React Native
 
-<!--
-**SAR2N/SAR2N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ About Me
+- 🎓 Computer Science graduate
+- 💻 Working towards becoming a Software Developer
+- 🌱 Exploring JavaScript and React Native
+- 🎨 Enjoy digital painting and illustration
+ My Projects
+Coming soon...
