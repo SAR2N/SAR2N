@@ -5,7 +5,7 @@
 </div>
 I'm a Computer Science graduate and aspiring Software Developer, passionate about learning new technologies and building useful applications.
  Tech & Learning
-Java
+Java,
 JavaScript
 React Native
 
@@ -16,11 +16,12 @@ React Native
 - 🎨 Enjoy digital painting and illustration
 
 🛠️ Tech & Learning
-☕ Java
-JavaScript
+☕ Java,
+JavaScript,
 React Native
 
 
 📫 Connect With Me
-💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sardionntatidis/)) ·
+💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sardionntatidis/) 
+
 📧 [Email](mailto:sardion1@hotmail.com)
