@@ -20,8 +20,12 @@ React Native
 JavaScript,
 React Native
 
+ 🌐 My Portfolio
 
-📫 Connect With Me
-💼 [Profile](https://www.linkedin.com/in/sardionntatidis/) 
+Check out my personal website:
+
+[🚀 Visit My Portfolio](https://sar2n.github.io/Portfolio/)📫 
+
+Connect With Me💼 [Profile](https://www.linkedin.com/in/sardionntatidis/) 
 
 📧 Contact me[Email](mailto:sardion1@hotmail.com)
