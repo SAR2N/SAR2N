@@ -14,5 +14,13 @@ React Native
 - 💻 Working towards becoming a Software Developer
 - 🌱 Exploring JavaScript and React Native
 - 🎨 Enjoy digital painting and illustration
- My Projects
-Coming soon...
+
+🛠️ Tech & Learning
+☕ Java
+JavaScript
+React Native
+
+
+📫 Connect With Me
+💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sardionntatidis/)) ·
+📧 [Email](mailto:sardion1@hotmail.com)
