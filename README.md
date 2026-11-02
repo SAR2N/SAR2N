@@ -22,6 +22,6 @@ React Native
 
 
 📫 Connect With Me
-💼 ([Profile](https://www.linkedin.com/in/sardionntatidis/) 
+💼 [Profile](https://www.linkedin.com/in/sardionntatidis/) 
 
-📧 [Email](mailto:sardion1@hotmail.com)
+📧 Contact me[Email](mailto:sardion1@hotmail.com)
